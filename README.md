@@ -1,5 +1,5 @@
 # Joel Svennson II
-### _An Officially-Sanctioned Fan Sequel to the Award Winning Text-Based Adventure Game_
+### _A Fan Sequel to the Award Winning Text-Based Adventure Game_
 ___
   
   
