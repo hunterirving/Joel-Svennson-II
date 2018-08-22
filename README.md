@@ -1,5 +1,8 @@
-# Joel-Svennson-II
-
+# Joel Svennson II
+### _An Officially-Sanctioned Fan Sequel to the Award Winning Text-Based Adventure Game_
+___
+  
+  
 At the first Iota Omicron Iota Game Jam in September of 2015, Ashlynn Jones and Quentin Hickam created a text-based adventure game starring a parody of beloved Appalachian State CS professor Joel Swanson.
 
 Titled __Joel Svennson__, their game took home first place in a community-choice vote, and was shared and enjoyed by many in the CS department.
