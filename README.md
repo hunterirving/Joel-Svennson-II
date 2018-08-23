@@ -13,7 +13,7 @@ At HackNC in October of that year, my brother Josh and I teamed up to create an 
 
 <img src="https://github.com/hunterirving/Joel-Svennson-II/blob/master/images/joelsvennson2gif.gif">
 
-Joel Svennson II is a love letter to a love letter - a parody of a parody.
+__Joel Svennson II__ is a love letter to a love letter - a parody of a parody.
 We tried to stay close to the source material and lore of the first game, while adding in a few choice anecdotes from time spent in Mr. Swanson's class.
 
 The end result is something that is twice-removed from reality, but I think that's part of the fun of it.
