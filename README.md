@@ -20,6 +20,6 @@ The end result is something that is twice-removed from reality, but I think that
 
 <img src="https://github.com/hunterirving/Joel-Svennson-II/blob/master/images/email.png">
 
-If there were a __Joel Svennson III__, I think it should be a VR game.
+If there were to be a __Joel Svennson III__, I think it should be a VR game.
 
 -Hunter
