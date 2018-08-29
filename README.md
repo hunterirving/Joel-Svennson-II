@@ -7,7 +7,7 @@ At the first Iota Omicron Iota Game Jam in September of 2015, Ashlynn Jones and 
 
 Titled __Joel Svennson__, their game took home first place in a community-choice vote, and was shared and enjoyed by many in the CS department.
 
-<img src="https://github.com/hunterirving/Joel-Svennson-II/blob/master/images/joelsvennson_screenshot.png">
+<img src="https://github.com/hunterirving/Joel-Svennson-II/blob/master/images/joelsvennson_screenshot2.png">
 
 At HackNC in October of that year, my brother Josh and I teamed up to create an unofficial fan-sequel to the game, appropriately titled __Joel Svennson Ⅱ__. To our surprise and delight, "Ⅱ" was officially recognized by Quentin and Ashlynn as canonical to the series.
 
