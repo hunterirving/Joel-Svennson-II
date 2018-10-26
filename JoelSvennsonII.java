@@ -119,14 +119,14 @@ public class JoelSvennsonII
 			hang();
 			doot("Your iPod touch (4G) is dying and your charger is all the way over there.");
 			doot("You only have enough battery life left to open one email. Which do you read?");
-			doot("(a) toodrunktohavesex.mp3   (b) BanjoFan42   (c) JoelSwanson.java");
+			doot("(a) toodrunktohavesocks.mp3   (b) BanjoFan42   (c) JoelSwanson.java");
 			current = kb.nextLine();
 			while (!current.equals("a") && !current.equals("A") && !current.equals("b") && !current.equals("B") && !current.equals("c") && !current.equals("C"))
                 {
                 doot("Choose your destiny.");  
 				doot("Your iPod touch (4G) is dying and your charger is all the way over there.");
 				doot("You only have enough battery life left to open one email. Which do you read?");
-				doot("(a) toodrunktohavesex.mp3   (b) BanjoFan42   (c) JoelSwanson.java");
+				doot("(a) toodrunktohavesocks.mp3   (b) BanjoFan42   (c) JoelSwanson.java");
 				current = kb.nextLine();
                 }
 			if(current.equals("a") || current.equals("A"))
