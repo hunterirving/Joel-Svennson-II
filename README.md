@@ -18,8 +18,6 @@ We tried to stay close to the source material and lore of the first game, while 
 
 The end result is something that is twice-removed from reality, but I think that's part of the fun of it.
 
-<img src="https://github.com/hunterirving/Joel-Svennson-II/blob/master/images/email.png">
-
 If there were to be a __Joel Svennson Ⅲ__, I think it should be a VR game.
 
 -Hunter
